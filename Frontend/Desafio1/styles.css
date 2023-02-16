@@ -1,11 +1,15 @@
 body {
     font-family: "Poppins";
-
+    margin: 0;
 }
 
 .cabecalho {
     font-size: 30px;
     font-weight: 300;
+}
+
+.banner {
+    background: #ffe6ff;
 }
 
 .titulo {
